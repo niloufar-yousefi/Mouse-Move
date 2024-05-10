@@ -1,5 +1,5 @@
 # mouse-move
-**Just the list**
+**Just hover the list**
 ![demo of mouse move](https://github.com/niloufar-yousefi/mouse-move/assets/156951582/da8cfda2-5466-4cc2-96f2-a76b258d29cd)
 - [Demo Project](https://niloufar-yousefi.github.io/mouse-move/)
 
